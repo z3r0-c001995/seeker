@@ -1,4 +1,4 @@
-# 🔎 Seeker - Advanced Search System
+# 🔎 Seeker - Search System
 
 🚀 **Seeker** is a modern search platform that allows users to find **names, numbers, and images** efficiently. It features **real-time searching** using AJAX and MySQL, ensuring a **smooth user experience** without page reloads.
 
