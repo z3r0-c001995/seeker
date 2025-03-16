@@ -1,6 +1,6 @@
-# 🔎 Seek - Advanced Search System
+# 🔎 Seeker - Advanced Search System
 
-🚀 **Seek** is a modern search platform that allows users to find **names, numbers, and images** efficiently. It features **real-time searching** using AJAX and MySQL, ensuring a **smooth user experience** without page reloads.
+🚀 **Seeker** is a modern search platform that allows users to find **names, numbers, and images** efficiently. It features **real-time searching** using AJAX and MySQL, ensuring a **smooth user experience** without page reloads.
 
 ---
 
